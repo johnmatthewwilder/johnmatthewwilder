@@ -14,3 +14,17 @@ You can click the Preview link to take a look at your changes.
 #### Word
 ##### Word
 ###### Word
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
